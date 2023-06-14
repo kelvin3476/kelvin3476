@@ -31,7 +31,6 @@
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=NoSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 
 </div>
