@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmddn0322)](https://solved.ac/dltmddn0322)
-
 <div>
 <div align="center">
   
@@ -62,7 +60,7 @@
   
   <img align="left" width="100" src="https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif">
   
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cba06130)](https://solved.ac/cba06130/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmddn0322)](https://solved.ac/dltmddn0322)
   <img align="right" width="100" src="https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif">
  
 </div>
