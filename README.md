@@ -55,10 +55,10 @@
   
 <div align="center">
   
-  <img align="left" width="100" src="https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif">
+  <img align="left" width="100" src="https://tenor.com/ko/view/snoopy-what-gif-8753995">
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmddn0322)](https://solved.ac/dltmddn0322)
-  <img align="right" width="100" src="https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif">
+  <img align="right" width="100" src="https://tenor.com/ko/view/snoopy-what-gif-8753995">
  
 </div>
   
