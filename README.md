@@ -74,5 +74,5 @@
   
 <div align="center">
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient)
-  </div>
+
 </div>
