@@ -5,7 +5,7 @@
 
 </div>  
   
-<h3 align="center">:books: Tech Stack :man_mechanic:</h3>
+<h3 align="center">:man_mechanic: Tech Stack :man_mechanic:</h3>
 
 <div align="center">
   
