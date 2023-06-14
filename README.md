@@ -43,8 +43,8 @@
 
 <div align="center">
   
-  <a href="https://soo-note.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+  <a href="[https://velog.io/@kelvin3476]">
+    <img src="https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Tistory&logoColor=white"/>
   </a>
   
 </div>
