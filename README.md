@@ -64,7 +64,7 @@
   
 #
   
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3 align="center"> 👨💻 My Github Stats 👨💻</h3>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvin3476&show_icons=true&theme=vue">
