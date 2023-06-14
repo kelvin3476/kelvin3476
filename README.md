@@ -51,7 +51,7 @@
 
 #
 
-<h3 align="center">:seedling: Baekjoon 현황 :seedling:</h3>
+<h3 align="center">:grey_question: Baekjoon 현황 :grey_question:</h3>
   
 <div align="center">
   
