@@ -72,6 +72,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoSooBeen&hide=Batchfile,jupyter%20notebook&layout=compact&theme=vue">
 </p>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=180&align=center)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=180&align=center&padding=50px)
 
 </div>
