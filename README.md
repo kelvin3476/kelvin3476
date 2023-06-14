@@ -55,11 +55,11 @@
   
 <div align="center">
   
-  <img align="left" width="100" size="150" src="https://tenor.com/ko/view/snoopy-what-gif-8753995.gif">
+  <img align="left" width="100" src="https://tenor.com/ko/view/snoopy-what-gif-8753995.gif">
   
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmddn0322)](https://solved.ac/dltmddn0322)
-  <img align="right" width="100" size="150" src="https://tenor.com/ko/view/snoopy-what-gif-8753995.gif">
+  <img align="right" width="400" src="https://tenor.com/ko/view/snoopy-what-gif-8753995.gif">
  
 </div>
   
