@@ -39,12 +39,12 @@
 
 #
 
-<h3 align="center">:link: My Link 🔗</h3>
+<h3 align="center">:chains: My Link :chains:</h3>
 
 <div align="center">
   
   <a href="https://velog.io/@kelvin3476">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </a>
   
 </div>
