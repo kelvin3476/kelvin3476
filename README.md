@@ -67,8 +67,8 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChoSooBeen&show_icons=true&theme=vue">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoSooBeen&hide=Batchfile,jupyter%20notebook&layout=compact&theme=vue">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvin3476&show_icons=true&theme=vue">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin3476&hide=Batchfile,jupyter%20notebook&layout=compact&theme=vue">
 </p>
   
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient)
