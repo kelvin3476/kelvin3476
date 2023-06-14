@@ -32,11 +32,6 @@
 <div align="center">
   
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-
-</div>
-
-<div align="center">
-  
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 </div>
