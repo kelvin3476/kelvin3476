@@ -5,7 +5,7 @@
 
 </div>  
   
-<h3 align="center">:man_mechanic: Tech Stack :man_mechanic:</h3>
+<h3 align="center">🧑‍🔧 Tech Stack 🧑‍🔧</h3>
 
 <div align="center">
   
@@ -38,7 +38,7 @@
 
 #
 
-<h3 align="center">:chains: My Link :chains:</h3>
+<h3 align="center">⛓️ My Link ⛓️</h3>
 
 <div align="center">
   
@@ -50,7 +50,7 @@
 
 #
 
-<h3 align="center">:grey_question: Baekjoon 현황 :grey_question:</h3>
+<h3 align="center">❔ Baekjoon 현황 ❔</h3>
   
 <div align="center">
   
