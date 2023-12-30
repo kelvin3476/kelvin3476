@@ -1,7 +1,7 @@
 <div>
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Kelvin's%20Github%20Page&fontSize=30&fontColor=FFFFFF)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Kelvin's%20Github%20Page&fontSize=30&fontColor=FFFFFF"/>
 
 </div>  
   
@@ -71,6 +71,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin3476&hide=Batchfile,jupyter%20notebook&layout=compact&theme=vue">
 </p>
   
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient)
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto">
 
 </div>
